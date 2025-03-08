@@ -26,4 +26,4 @@ You should have skills and experience working with an area of IT, such as:
 ## Preparation Resources
 [1. Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-prepare-for-the-exam)  
 [2. Youtube Video by Andrew Brewn](https://in.video.search.yahoo.com/search/video;_ylt=AwrKGKrcqstnjgIAWO67HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?type=E210IN714G0&p=andrew+brewn+youtube+video+on+az900&fr=mcafee&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOVP.4LIVo8RKWckq6rGugXqANAHgFo%26pid%3DApi%26w%3D296%26h%3D156%26c%3D7%26p%3D0&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5abffC-K40c&tit=Microsoft+Azure+Fundamentals+Certification+Course+%28AZ-900%29+UPDATED+%E2%80%93+Pass+the+exam+in+8+hours%21&pos=11&vid=e9f92596bd377edbdd63ffc2eaa55d78&sigr=cA6zgnf6V5IN&sigt=.P79XfSFAewj&sigi=skAoZZ9xs09X)  
-[3. Exam Dumps](https://github.com/Devopsdelight-T/Azure-Fundamentals-AZ-900-Preparation.md)
+[3. Exam Dumps](https://github.com/Devopsdelight-T/Azure-Fundamentals-AZ-900-Preparation/blob/main/AZ-900_exam%20dumps.docx)
